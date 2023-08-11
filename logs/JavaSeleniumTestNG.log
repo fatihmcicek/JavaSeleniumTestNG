@@ -1,0 +1,8 @@
+2023-08-11 09:15:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fc0095\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-11 09:15:14 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-11 09:15:14 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-11 09:15:14 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fc0095\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-11 09:15:16 [main] INFO  Test.AllTests - Logger Test
+2023-08-11 09:15:16 [main] ERROR Test.AllTests - Logger Test 2
