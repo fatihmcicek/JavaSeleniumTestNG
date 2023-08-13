@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class AllTests extends BaseTest {
+public class AllTest_2 extends BaseTest {
 
     private HomePage homePage;
     private ProductsPage productsPage;
@@ -25,9 +25,11 @@ public class AllTests extends BaseTest {
 
     @Test
     public void checkTest() {
+        homePage.clickZeroCarButton();
         logger.info("Logger Test");
         logger.error("Added Report Html Doc");
         productsPage.selectProduct();
+
     }
 
 }

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+    <test name="Test Basics 1">
+        <parameter name="developer" value="https://www.linkedin.com/in/fatihmcicek/"/>
+        <classes>
+            <class name="Test.AllTests"/>
+        </classes>
+    </test>
+
+    <test name="Test Basics 2">
+        <parameter name="developer" value="https://www.linkedin.com/in/fatihmcicek/"/>
+        <classes>
+            <class name="Test.AllTest_2"/>
+        </classes>
+    </test>
+
+    <test name="Test Basics 3">
+        <parameter name="developer" value="https://www.linkedin.com/in/fatihmcicek/"/>
+        <classes>
+            <class name="Test.AllTest_3"/>
+        </classes>
+    </test>
+
+</suite>

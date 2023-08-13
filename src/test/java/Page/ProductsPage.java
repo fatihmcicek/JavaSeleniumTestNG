@@ -1,7 +1,6 @@
 package Page;
 
 import Utilities.ReusableMethods;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
@@ -12,12 +11,13 @@ public class ProductsPage extends ReusableMethods {
     public ProductsPage(WebDriver driver) {
         super(driver);
         this.driver = driver;
-        PageFactory.initElements(driver,this);
+        PageFactory.initElements(driver, this);
     }
 
+    public void selectProduct() {
 
-    public ProductsPage selectProduct(){
-        return this;
+        System.out.println("ProductsPage");
+
+        new ProductsPage(driver);
     }
-
 }
