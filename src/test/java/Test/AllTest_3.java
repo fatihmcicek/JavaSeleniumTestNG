@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class AllTests extends BaseTest {
+public class AllTest_3 extends BaseTest {
 
     private HomePage homePage;
     private ProductsPage productsPage;

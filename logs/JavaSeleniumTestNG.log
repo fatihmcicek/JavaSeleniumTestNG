@@ -6,3 +6,171 @@
 2023-08-11 09:15:14 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fc0095\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
 2023-08-11 09:15:16 [main] INFO  Test.AllTests - Logger Test
 2023-08-11 09:15:16 [main] ERROR Test.AllTests - Logger Test 2
+2023-08-13 14:43:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 14:43:37 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 14:43:37 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 14:43:37 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 14:43:46 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 14:43:46 [main] ERROR Test.AllTests - Logger Test 2
+2023-08-13 14:49:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 14:49:06 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 14:49:06 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 14:49:06 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 14:52:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 14:52:43 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 14:52:43 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 14:52:43 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 14:52:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 14:52:59 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 14:52:59 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 14:52:59 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 14:53:07 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 14:53:07 [main] ERROR Test.AllTests - Logger Test 2
+2023-08-13 15:07:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 15:07:36 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:07:36 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:07:36 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:10:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 15:10:27 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:10:27 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:10:27 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:11:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 15:11:47 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:11:47 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:11:47 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:11:55 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 15:11:55 [main] ERROR Test.AllTests - Logger Test 2
+2023-08-13 15:24:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 15:24:20 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:24:20 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:24:21 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:24:30 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 15:24:30 [main] ERROR Test.AllTests - Logger Test 2
+2023-08-13 15:28:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 15:28:47 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:28:47 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:28:47 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:28:59 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 15:28:59 [main] ERROR Test.AllTests - Logger Test 2
+2023-08-13 15:31:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 15:31:33 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:31:33 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:31:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:31:42 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 15:31:42 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 15:34:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\testng.xml
+
+2023-08-13 15:34:14 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:34:14 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:34:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:34:21 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 15:34:21 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 15:55:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\testng.xml
+
+2023-08-13 15:55:13 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 15:55:13 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 15:55:14 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 15:55:43 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 15:55:43 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 16:00:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
+
+2023-08-13 16:00:42 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 16:00:42 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 16:00:43 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 16:01:04 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 16:01:04 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 16:02:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\testng.xml
+
+2023-08-13 16:02:38 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 16:02:38 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 16:02:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 16:02:44 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 16:02:44 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 16:02:46 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 16:02:46 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 16:02:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 16:03:00 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 16:03:00 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 16:03:01 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 16:03:01 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 16:03:01 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 16:03:10 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 16:03:10 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 16:23:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\testng.xml
+
+2023-08-13 16:23:03 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 16:23:03 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 16:23:03 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 16:23:12 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 16:23:12 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 16:23:14 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 16:23:14 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 16:23:14 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 16:23:22 [main] INFO  Test.AllTest_2 - Logger Test
+2023-08-13 16:23:22 [main] ERROR Test.AllTest_2 - Added Report Html Doc
+2023-08-13 16:23:23 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 16:23:23 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 16:23:24 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 16:23:30 [main] INFO  Test.AllTest_3 - Logger Test
+2023-08-13 16:23:30 [main] ERROR Test.AllTest_3 - Added Report Html Doc
+2023-08-13 20:05:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\testng.xml
+
+2023-08-13 20:05:54 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 20:05:54 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 20:05:55 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 20:06:02 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 20:06:02 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 20:06:03 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 20:06:03 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 20:06:03 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 20:06:13 [main] INFO  Test.AllTest_2 - Logger Test
+2023-08-13 20:06:13 [main] ERROR Test.AllTest_2 - Added Report Html Doc
+2023-08-13 20:06:14 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 20:06:14 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 20:06:14 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 20:06:20 [main] INFO  Test.AllTest_3 - Logger Test
+2023-08-13 20:06:20 [main] ERROR Test.AllTest_3 - Added Report Html Doc
+2023-08-13 22:58:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\testng.xml
+
+2023-08-13 22:58:22 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 22:58:22 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 22:58:23 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 22:58:44 [main] INFO  Test.AllTests - Logger Test
+2023-08-13 22:58:44 [main] ERROR Test.AllTests - Added Report Html Doc
+2023-08-13 22:58:46 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 22:58:46 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 22:58:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 22:59:00 [main] INFO  Test.AllTest_2 - Logger Test
+2023-08-13 22:59:00 [main] ERROR Test.AllTest_2 - Added Report Html Doc
+2023-08-13 22:59:02 [main] ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-13 22:59:02 [main] WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-13 22:59:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-13 22:59:19 [main] INFO  Test.AllTest_3 - Logger Test
+2023-08-13 22:59:19 [main] ERROR Test.AllTest_3 - Added Report Html Doc
