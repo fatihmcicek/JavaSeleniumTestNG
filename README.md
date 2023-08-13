@@ -24,8 +24,8 @@ To run the test
 mvn test
 ```
 
-![TestResult](C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\src\test\resources\Capture_2.PNG)
-![TestResult](C:\Users\fatih\Desktop\CoreAutomation\JavaSeleniumTestNG\src\test\resources\Capture.PNG)
+![TestResult](src/test/resources/Capture_2.PNG)
+![TestResult](src/test/resources/Capture.PNG)
 
 
 
