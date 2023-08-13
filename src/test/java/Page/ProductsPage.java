@@ -15,7 +15,6 @@ public class ProductsPage extends ReusableMethods {
         PageFactory.initElements(driver,this);
     }
 
-    private final By PRODUCT = By.xpath("//select[@class='brands']");
 
     public ProductsPage selectProduct(){
         return this;
