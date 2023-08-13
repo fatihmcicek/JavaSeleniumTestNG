@@ -23,12 +23,18 @@ public class AllTests extends BaseTest {
         navigateToUrl(mainUrl);
     }
 
+<<<<<<< HEAD
     @Test
     public void checkTest() {
         homePage.clickZeroCarButton();
         logger.info("Logger Test");
         logger.error("Added Report Html Doc");
         productsPage.selectProduct();
+=======
+    @Test (description = "Search Prodcut Dynamic")
+    public void checkTest() throws InterruptedException {
+        homePage.searchProduct();
+>>>>>>> origin
 
     }
 

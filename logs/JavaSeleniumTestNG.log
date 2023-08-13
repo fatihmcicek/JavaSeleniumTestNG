@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2023-08-11 09:15:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\fc0095\AppData\Local\JetBrains\Aqua2023.2\temp-testng-customsuite.xml
 
@@ -174,3 +175,5 @@
 2023-08-13 22:59:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
 2023-08-13 22:59:19 [main] INFO  Test.AllTest_3 - Logger Test
 2023-08-13 22:59:19 [main] ERROR Test.AllTest_3 - Added Report Html Doc
+=======
+>>>>>>> origin

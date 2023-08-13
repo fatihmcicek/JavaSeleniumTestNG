@@ -14,11 +14,14 @@ public class ProductsPage extends ReusableMethods {
         PageFactory.initElements(driver, this);
     }
 
+<<<<<<< HEAD
     public void selectProduct() {
 
         System.out.println("ProductsPage");
 
         new ProductsPage(driver);
+=======
+>>>>>>> origin
 
     }
 }
